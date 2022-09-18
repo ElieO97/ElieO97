@@ -16,6 +16,7 @@ Here are some of the projects that I’m currently working on
 
 Here are some of the blogs written by me:
    - [Composite pattern in Kotlin: Android example](https://medium.com/@elieomatuku/composite-pattern-in-kotlin-android-example-f895d9f5c953)
+   - [Using Jetpack Compose in an existing Android application](https://medium.com/@elieomatuku/using-jetpack-compose-in-an-existing-android-application-36df3f38d3dc)
 
 When I’m not in front of my screen, coding, I am watching Football ⚽️. I’m a Real Madrid supporter and Crisitano Ronaldo is the 🐐 
 
@@ -38,6 +39,7 @@ Voici des projets que je maintiens activement:
 
 Voici des blogs écrits par moi: 
  - [Composite pattern in Kotlin: Android example](https://medium.com/@elieomatuku/composite-pattern-in-kotlin-android-example-f895d9f5c953)
+ - [Using Jetpack Compose in an existing Android application](https://medium.com/@elieomatuku/using-jetpack-compose-in-an-existing-android-application-36df3f38d3dc)
 
 
 Quand je ne suis pas devant un écran en train de coder, je regarde du Foot. ⚽️ Je suis supporteur du Real Madrid and Cristiano Ronaldo est le 🐐.
